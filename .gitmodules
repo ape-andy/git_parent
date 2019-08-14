@@ -1,0 +1,3 @@
+[submodule "mymodule"]
+	path = mymodule
+	url = git@github.com:ape-andy/git_child.git
